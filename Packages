@@ -1,14 +1,11 @@
-Package: (com.yourname.packagename)
-Name: (Tweak Name) 
-Version: (Version Number)
-Size: (Size in Bytes)
+Package: com.luha.desktops.deb
+Name: Desktops
+Version: Pre-release v1
+Size: 29 190
 Architecture: iphoneos-arm
-Description: (Tweak Description)
-Maintainer: (Name) <email@provider.com>
-Author: (Name) <email@provider.com>
+Description: Adds panorama wallpaper support to the homescreen! Multiple wallpapers is still under development.
+Maintainer: luha <email@provider.com>
+Author: Ludwig Hansson <email@provider.com>
 Section: (Cydia Section)
-MD5sum:
-SHA1sum:
-SHA256sum:
-Filename: debs//(Tweak Name).deb
-
+MD5sum: af4033357d2366ec80bbd6d9e970f49e
+Filename: ./debs/com.luha.desktops.deb
